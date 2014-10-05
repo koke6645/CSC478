@@ -1649,7 +1649,7 @@ div#notebook {
 
 <!-- Loading mathjax macro -->
 <!-- Load mathjax -->
-    <script src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
     <!-- MathJax configuration -->
     <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -1675,12 +1675,20 @@ div#notebook {
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
 
-                1. Explore the general characteristics of the data, by computing the means and standard deviations of the numerical attributes, as well as the the distributions of male and female customers, the preferred movie genres, etc.
-                
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="1.-Explore-the-general-characteristics-of-the-data,-by-computing-the-means-and-standard-deviations-of-the-numerical-attributes,-as-well-as-the-the-distributions-of-male-and-female-customers,-the-preferred-movie-genres,-etc.">1. Explore the general characteristics of the data, by computing the means and standard deviations of the numerical attributes, as well as the the distributions of male and female customers, the preferred movie genres, etc.<a class="anchor-link" href="#1.-Explore-the-general-characteristics-of-the-data,-by-computing-the-means-and-standard-deviations-of-the-numerical-attributes,-as-well-as-the-the-distributions-of-male-and-female-customers,-the-preferred-movie-genres,-etc.">&#182;</a></h3>
+</div>
+</div>
+</div>
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[55]:
+In&nbsp;[1]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1699,7 +1707,7 @@ In&nbsp;[55]:
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[56]:
+In&nbsp;[2]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1738,7 +1746,7 @@ Std:   21194.5747775 	11.8796632949 	9.94673815881 	0.889098419749
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[57]:
+In&nbsp;[3]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1778,7 +1786,7 @@ Female Std:   19986.4103136 	13.5364092358 	11.968056442 	0.838277002746
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[58]:
+In&nbsp;[4]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1820,7 +1828,7 @@ Female Incidentals: 10
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[59]:
+In&nbsp;[5]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1860,7 +1868,7 @@ Male Std:   22172.4014174 	9.39099719957 	7.60809674588 	0.932864773904
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[60]:
+In&nbsp;[6]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1899,12 +1907,29 @@ Male Incidentals: 16
 </div>
 
 </div>
-                2. Suppose that because of the higher profit margin, the store would like to increase the sales of incidentals. Select the subset of customers who tend to buy incidentals. Then, compute summaries (as in part 1) of the selected data with respect to all other attributes. Can you observe any significant patterns that characterize this segment of customers in contrast to the general customer populations? Based on your observations discuss how this could be accomplished (e.g., should customers with specific characteristics be targeted? Should certain types of movies be preferred? Etc.). Explain your answer based on your analysis of the data.
-                
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="2.-Suppose-that-because-of-the-higher-profit-margin,-the-store-would-like-to-increase-the-sales-of-incidentals.-Select-the-subset-of-customers-who-tend-to-buy-incidentals.-Then,-compute-summaries-(as-in-part-1)-of-the-selected-data-with-respect-to-all-other-attributes.-Can-you-observe-any-significant-patterns-that-characterize-this-segment-of-customers-in-contrast-to-the-general-customer-populations?-Based-on-your-observations-discuss-how-this-could-be-accomplished-(e.g.,-should-customers-with-specific-characteristics-be-targeted?-Should-certain-types-of-movies-be-preferred?-Etc.).-Explain-your-answer-based-on-your-analysis-of-the-data.">2. Suppose that because of the higher profit margin, the store would like to increase the sales of incidentals. Select the subset of customers who tend to buy incidentals. Then, compute summaries (as in part 1) of the selected data with respect to all other attributes. Can you observe any significant patterns that characterize this segment of customers in contrast to the general customer populations? Based on your observations discuss how this could be accomplished (e.g., should customers with specific characteristics be targeted? Should certain types of movies be preferred? Etc.). Explain your answer based on your analysis of the data.<a class="anchor-link" href="#2.-Suppose-that-because-of-the-higher-profit-margin,-the-store-would-like-to-increase-the-sales-of-incidentals.-Select-the-subset-of-customers-who-tend-to-buy-incidentals.-Then,-compute-summaries-(as-in-part-1)-of-the-selected-data-with-respect-to-all-other-attributes.-Can-you-observe-any-significant-patterns-that-characterize-this-segment-of-customers-in-contrast-to-the-general-customer-populations?-Based-on-your-observations-discuss-how-this-could-be-accomplished-(e.g.,-should-customers-with-specific-characteristics-be-targeted?-Should-certain-types-of-movies-be-preferred?-Etc.).-Explain-your-answer-based-on-your-analysis-of-the-data.">&#182;</a></h3>
+</div>
+</div>
+</div>
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Ans: 100% of female and 69% of male who prefer action movie buy incidentals, but 83% of customers who prefer comedy movie don't buy incidentals. Last, 50% of customers who prefer drama movie buy incidentals. Indeed, customer who prefer action movie could be the target especially female in this group.</p>
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[61]:
+In&nbsp;[7]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1947,7 +1972,7 @@ Total:  26
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[62]:
+In&nbsp;[8]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -1986,7 +2011,7 @@ Std:        16906.8033643 	7.5789181286 	7.70973410696 	0.440908153701
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[63]:
+In&nbsp;[9]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2022,43 +2047,20 @@ Std:        19474.4560353 	4.77790773947 	6.85176952051 	0.989530998824
 </div>
 
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
+<div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
-In&nbsp;[64]:
 </div>
 <div class="inner_cell">
-    <div class="input_area">
-<div class="highlight"><pre><span class="k">print</span> <span class="s">&quot;Ans: 100</span><span class="si">% o</span><span class="s">f female and 69</span><span class="si">% o</span><span class="s">f male who prefer action movie buy incidentals, but 83</span><span class="si">% o</span><span class="s">f customers who prefer comedy movie don&#39;t buy incidentals. Last, 50</span><span class="si">% o</span><span class="s">f customers who prefer drama movie buy incidentals. Indeed, customer who prefer action movie could be the target especially female in this group.&quot;</span>
-</pre></div>
-
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="3.-Use-z-score-normalization-to-standardize-the-values-of-the-Rentals-attribute.-Show-the-results-side-by-side-with-the-original-Rentals-attribute.-[Do-not-change-the-original-Rentals-attribute-in-the-table.]">3. Use z-score normalization to standardize the values of the Rentals attribute. Show the results side-by-side with the original Rentals attribute. [Do not change the original Rentals attribute in the table.]<a class="anchor-link" href="#3.-Use-z-score-normalization-to-standardize-the-values-of-the-Rentals-attribute.-Show-the-results-side-by-side-with-the-original-Rentals-attribute.-[Do-not-change-the-original-Rentals-attribute-in-the-table.]">&#182;</a></h3>
 </div>
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>
-Ans: 100% of female and 69% of male who prefer action movie buy incidentals, but 83% of customers who prefer comedy movie don&apos;t buy incidentals. Last, 50% of customers who prefer drama movie buy incidentals. Indeed, customer who prefer action movie could be the target especially female in this group.
-
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-                3. Use z-score normalization to standardize the values of the Rentals attribute. Show the results side-by-side with the original Rentals attribute. [Do not change the original Rentals attribute in the table.]
-                
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[65]:
+In&nbsp;[10]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2193,12 +2195,20 @@ Side-by-side Rentals / z-score normalization
 </div>
 
 </div>
-                4. Use Min-Max Normalization to transform the values of all numeric attributes (Income, Age, Rentals, Avg. Per Visit) onto the range 0.0-1.0.
-                
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="4.-Use-Min-Max-Normalization-to-transform-the-values-of-all-numeric-attributes-(Income,-Age,-Rentals,-Avg.-Per-Visit)-onto-the-range-0.0-1.0.">4. Use Min-Max Normalization to transform the values of all numeric attributes (Income, Age, Rentals, Avg. Per Visit) onto the range 0.0-1.0.<a class="anchor-link" href="#4.-Use-Min-Max-Normalization-to-transform-the-values-of-all-numeric-attributes-(Income,-Age,-Rentals,-Avg.-Per-Visit)-onto-the-range-0.0-1.0.">&#182;</a></h3>
+</div>
+</div>
+</div>
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[66]:
+In&nbsp;[11]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2221,11 +2231,15 @@ In&nbsp;[66]:
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>
 Normalizing Income
-[ 0.50  0.60  0.35  0.66  0.41  0.19  0.32  0.83  0.42  0.73  0.45  0.28
-  0.93  0.50  0.76  0.18  0.40  0.06  0.26  0.12  0.52  0.27  0.01  0.89
-  0.00  0.62  0.69  0.64  0.16  0.45  0.55  0.52  0.25  0.32  0.83  0.32
-  1.00  0.45  0.76  0.18  0.56  0.35  0.55  0.39  0.62  0.64  0.77  0.58
-  0.34  0.26]
+[ 0.5         0.60227273  0.35227273  0.65909091  0.40909091  0.19318182
+  0.31818182  0.82954545  0.42045455  0.72727273  0.45454545  0.28409091
+  0.93181818  0.5         0.76136364  0.18181818  0.39772727  0.05681818
+  0.26136364  0.125       0.52272727  0.27272727  0.01136364  0.88636364
+  0.          0.625       0.69318182  0.63636364  0.15909091  0.45454545
+  0.54545455  0.52272727  0.25        0.31818182  0.82954545  0.31818182
+  1.          0.45454545  0.76136364  0.18181818  0.55681818  0.35227273
+  0.54545455  0.38636364  0.625       0.63636364  0.77272727  0.57954545
+  0.34090909  0.26136364]
 
 </pre>
 </div>
@@ -2238,7 +2252,7 @@ Normalizing Income
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[67]:
+In&nbsp;[12]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2261,11 +2275,15 @@ In&nbsp;[67]:
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>
 Normalizing Age
-[ 0.18  0.33  0.09  1.00  0.36  0.09  0.55  0.18  0.11  0.45  0.13  0.13
-  0.56  0.38  0.27  0.07  0.36  0.02  0.18  0.02  0.67  0.33  0.00  0.36
-  0.02  0.36  0.58  0.67  0.05  0.18  0.75  0.27  0.18  0.31  0.25  0.11
-  0.56  0.42  0.36  0.07  0.33  0.18  0.24  0.16  0.42  0.51  0.36  0.58
-  0.18  0.09]
+[ 0.18181818  0.32727273  0.09090909  1.          0.36363636  0.09090909
+  0.54545455  0.18181818  0.10909091  0.45454545  0.12727273  0.12727273
+  0.56363636  0.38181818  0.27272727  0.07272727  0.36363636  0.01818182
+  0.18181818  0.01818182  0.67272727  0.32727273  0.          0.36363636
+  0.01818182  0.36363636  0.58181818  0.67272727  0.05454545  0.18181818
+  0.74545455  0.27272727  0.18181818  0.30909091  0.25454545  0.10909091
+  0.56363636  0.41818182  0.36363636  0.07272727  0.32727273  0.18181818
+  0.23636364  0.16363636  0.41818182  0.50909091  0.36363636  0.58181818
+  0.18181818  0.09090909]
 
 </pre>
 </div>
@@ -2278,7 +2296,7 @@ Normalizing Age
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[68]:
+In&nbsp;[13]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2301,11 +2319,15 @@ In&nbsp;[68]:
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>
 Normalizing Rentals
-[ 0.59  0.08  0.85  0.18  0.41  0.51  0.26  0.56  0.23  0.31  1.00  0.59
-  0.13  0.38  0.69  0.44  0.49  0.77  0.82  0.36  0.05  0.18  0.54  0.33
-  0.41  0.79  0.59  0.33  0.72  0.21  0.15  0.31  0.49  0.26  0.87  0.64
-  0.08  0.28  0.26  0.59  0.21  0.44  1.00  0.38  0.54  0.00  0.33  0.13
-  0.85  0.62]
+[ 0.58974359  0.07692308  0.84615385  0.17948718  0.41025641  0.51282051
+  0.25641026  0.56410256  0.23076923  0.30769231  1.          0.58974359
+  0.12820513  0.38461538  0.69230769  0.43589744  0.48717949  0.76923077
+  0.82051282  0.35897436  0.05128205  0.17948718  0.53846154  0.33333333
+  0.41025641  0.79487179  0.58974359  0.33333333  0.71794872  0.20512821
+  0.15384615  0.30769231  0.48717949  0.25641026  0.87179487  0.64102564
+  0.07692308  0.28205128  0.25641026  0.58974359  0.20512821  0.43589744
+  1.          0.38461538  0.53846154  0.          0.33333333  0.12820513
+  0.84615385  0.61538462]
 
 </pre>
 </div>
@@ -2318,7 +2340,7 @@ Normalizing Rentals
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[69]:
+In&nbsp;[14]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2341,11 +2363,15 @@ In&nbsp;[69]:
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>
 Normalizing Visit Average
-[ 0.39  0.64  0.14  0.86  0.58  0.17  0.75  0.36  0.28  0.61  0.33  0.50
-  0.69  0.44  0.44  0.31  0.67  0.19  0.56  0.31  0.56  0.50  0.39  0.75
-  0.08  0.42  0.69  0.83  0.28  0.08  0.58  0.56  0.44  0.50  0.97  0.33
-  0.03  0.61  0.78  0.19  0.08  0.31  0.61  0.17  0.67  0.00  0.47  0.14
-  0.64  1.00]
+[ 0.38888889  0.63888889  0.13888889  0.86111111  0.58333333  0.16666667
+  0.75        0.36111111  0.27777778  0.61111111  0.33333333  0.5
+  0.69444444  0.44444444  0.44444444  0.30555556  0.66666667  0.19444444
+  0.55555556  0.30555556  0.55555556  0.5         0.38888889  0.75
+  0.08333333  0.41666667  0.69444444  0.83333333  0.27777778  0.08333333
+  0.58333333  0.55555556  0.44444444  0.5         0.97222222  0.33333333
+  0.02777778  0.61111111  0.77777778  0.19444444  0.08333333  0.30555556
+  0.61111111  0.16666667  0.66666667  0.          0.47222222  0.13888889
+  0.63888889  1.        ]
 
 </pre>
 </div>
@@ -2355,12 +2381,20 @@ Normalizing Visit Average
 </div>
 
 </div>
-                5. Convert the table (after normalization in part 4) into the standard spreadsheet format. Note that this requires converting each categorical attribute into multiple attributes (one for each values of the categorical attribute) and assigning binary values corresponding to the presence or not presence of the attribute value in the original record). For example, the Gender attribute will be transformed into two attributes, "Genre=M" and "Genre=F". The numerical attributes will remain unchanged. This process should result in a new table with 12 attributes (one for Customer ID, two for Gender, one for each of Income, Age, Rentals, Avg. Per Visit, two for Incidentals, and three for Genre). Save this new table into a file called video_store_numeric.csv.
-                
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="5.-Convert-the-table-(after-normalization-in-part-4)-into-the-standard-spreadsheet-format.-Note-that-this-requires-converting-each-categorical-attribute-into-multiple-attributes-(one-for-each-values-of-the-categorical-attribute)-and-assigning-binary-values-corresponding-to-the-presence-or-not-presence-of-the-attribute-value-in-the-original-record).-For-example,-the-Gender-attribute-will-be-transformed-into-two-attributes,-&quot;Genre=M&quot;-and-&quot;Genre=F&quot;.-The-numerical-attributes-will-remain-unchanged.-This-process-should-result-in-a-new-table-with-12-attributes-(one-for-Customer-ID,-two-for-Gender,-one-for-each-of-Income,-Age,-Rentals,-Avg.-Per-Visit,-two-for-Incidentals,-and-three-for-Genre).-Save-this-new-table-into-a-file-called-video_store_numeric.csv.">5. Convert the table (after normalization in part 4) into the standard spreadsheet format. Note that this requires converting each categorical attribute into multiple attributes (one for each values of the categorical attribute) and assigning binary values corresponding to the presence or not presence of the attribute value in the original record). For example, the Gender attribute will be transformed into two attributes, "Genre=M" and "Genre=F". The numerical attributes will remain unchanged. This process should result in a new table with 12 attributes (one for Customer ID, two for Gender, one for each of Income, Age, Rentals, Avg. Per Visit, two for Incidentals, and three for Genre). Save this new table into a file called video_store_numeric.csv.<a class="anchor-link" href="#5.-Convert-the-table-(after-normalization-in-part-4)-into-the-standard-spreadsheet-format.-Note-that-this-requires-converting-each-categorical-attribute-into-multiple-attributes-(one-for-each-values-of-the-categorical-attribute)-and-assigning-binary-values-corresponding-to-the-presence-or-not-presence-of-the-attribute-value-in-the-original-record).-For-example,-the-Gender-attribute-will-be-transformed-into-two-attributes,-&quot;Genre=M&quot;-and-&quot;Genre=F&quot;.-The-numerical-attributes-will-remain-unchanged.-This-process-should-result-in-a-new-table-with-12-attributes-(one-for-Customer-ID,-two-for-Gender,-one-for-each-of-Income,-Age,-Rentals,-Avg.-Per-Visit,-two-for-Incidentals,-and-three-for-Genre).-Save-this-new-table-into-a-file-called-video_store_numeric.csv.">&#182;</a></h3>
+</div>
+</div>
+</div>
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[70]:
+In&nbsp;[15]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2381,7 +2415,7 @@ In&nbsp;[70]:
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[71]:
+In&nbsp;[16]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2402,7 +2436,7 @@ In&nbsp;[71]:
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[72]:
+In&nbsp;[17]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2426,7 +2460,7 @@ In&nbsp;[72]:
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[73]:
+In&nbsp;[18]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2447,10 +2481,19 @@ In&nbsp;[73]:
 </div>
                 6. Using the standardized data set (from part e), perform basic correlation analysis among the attributes. Discuss your results by indicating any strong correlations (positive or negative) among pairs of attributes. You need to construct a complete Correlation Matrix. Be sure to first remove the Customer ID column before creating the correlation matrix. [Hint: you can do this by using the corrcoef function in NumPy].
                 
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Ans: Age and income have a strong positive relationship. Age also has a strong positive toward drama movie but strong negative toward action movie.</p>
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[74]:
+In&nbsp;[19]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2496,43 +2539,29 @@ In&nbsp;[74]:
 </div>
 
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
+<div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
-In&nbsp;[75]:
 </div>
 <div class="inner_cell">
-    <div class="input_area">
-<div class="highlight"><pre><span class="k">print</span> <span class="s">&quot;Ans: Age and income have a strong positive relationship. Age also has a strong positive toward drama movie but strong negative toward action movie.&quot;</span> 
-</pre></div>
-
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="7.-Using-Matplotlib-library,-create-a-scatter-plot-of-the-(non-normalized)-Income-attribute-relative-to-Age.-Be-sure-that-your-plot-contains-appropriate-labels-for-the-axes.-Do-these-variables-seem-correlated?">7. Using Matplotlib library, create a scatter plot of the (non-normalized) Income attribute relative to Age. Be sure that your plot contains appropriate labels for the axes. Do these variables seem correlated?<a class="anchor-link" href="#7.-Using-Matplotlib-library,-create-a-scatter-plot-of-the-(non-normalized)-Income-attribute-relative-to-Age.-Be-sure-that-your-plot-contains-appropriate-labels-for-the-axes.-Do-these-variables-seem-correlated?">&#182;</a></h3>
 </div>
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>
-Ans: Age and income have a strong positive relationship. Age also has a strong positive toward drama movie but strong negative toward action movie.
-
-</pre>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Ans: The variables seem correlated. Low age has low income and older has hier income</p>
 </div>
 </div>
-
 </div>
-</div>
-
-</div>
-                7. Using Matplotlib library, create a scatter plot of the (non-normalized) Income attribute relative to Age. Be sure that your plot contains appropriate labels for the axes. Do these variables seem correlated?
-                
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[76]:
+In&nbsp;[20]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2552,43 +2581,20 @@ In&nbsp;[76]:
 </div>
 
 </div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
+<div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
-In&nbsp;[77]:
 </div>
 <div class="inner_cell">
-    <div class="input_area">
-<div class="highlight"><pre><span class="k">print</span> <span class="s">&quot;Ans: The variables seem correlated. Low age has low income and older has hier income&quot;</span>
-</pre></div>
-
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="8.-Using-the-hist-function-of-Matplotlib,-create-histograms-for-(non-normalized)-Income-(using-9-bins)-and-Age-(using-7-bins).">8. Using the hist function of Matplotlib, create histograms for (non-normalized) Income (using 9 bins) and Age (using 7 bins).<a class="anchor-link" href="#8.-Using-the-hist-function-of-Matplotlib,-create-histograms-for-(non-normalized)-Income-(using-9-bins)-and-Age-(using-7-bins).">&#182;</a></h3>
 </div>
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>
-Ans: The variables seem correlated. Low age has low income and older has hier income
-
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
-                8. Using the hist function of Matplotlib, create histograms for (non-normalized) Income (using 9 bins) and Age (using 7 bins).
-                
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[78]:
+In&nbsp;[21]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2609,7 +2615,7 @@ In&nbsp;[78]:
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[79]:
+In&nbsp;[22]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2627,12 +2633,20 @@ In&nbsp;[79]:
 </div>
 
 </div>
-                9. Using Python and Numpy, perform a cross-tabulation of the two "gender" variables versus the three "genre" variables. This requires the aggregation of the occurrences of each genre separately for each gender. You can use whatever appropriate data structure you which to store the results, but you can display it as as a 2 x 3 (gender x genre) table with entries representing the counts. Then, use Matplotlib to create a bar chart graph to visualize of the relationships between these sets of variables (comparing Male and Female customer across the three Genres). Your chart should contain appropriate labels for axes. [Hint: This example of creating simple bar charts using Matplotlib may be useful.]
-                
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="9.-Using-Python-and-Numpy,-perform-a-cross-tabulation-of-the-two-&quot;gender&quot;-variables-versus-the-three-&quot;genre&quot;-variables.-This-requires-the-aggregation-of-the-occurrences-of-each-genre-separately-for-each-gender.-You-can-use-whatever-appropriate-data-structure-you-which-to-store-the-results,-but-you-can-display-it-as-as-a-2-x-3-(gender-x-genre)-table-with-entries-representing-the-counts.-Then,-use-Matplotlib-to-create-a-bar-chart-graph-to-visualize-of-the-relationships-between-these-sets-of-variables-(comparing-Male-and-Female-customer-across-the-three-Genres).-Your-chart-should-contain-appropriate-labels-for-axes.-[Hint:-This-example-of-creating-simple-bar-charts-using-Matplotlib-may-be-useful.]">9. Using Python and Numpy, perform a cross-tabulation of the two "gender" variables versus the three "genre" variables. This requires the aggregation of the occurrences of each genre separately for each gender. You can use whatever appropriate data structure you which to store the results, but you can display it as as a 2 x 3 (gender x genre) table with entries representing the counts. Then, use Matplotlib to create a bar chart graph to visualize of the relationships between these sets of variables (comparing Male and Female customer across the three Genres). Your chart should contain appropriate labels for axes. [Hint: This example of creating simple bar charts using Matplotlib may be useful.]<a class="anchor-link" href="#9.-Using-Python-and-Numpy,-perform-a-cross-tabulation-of-the-two-&quot;gender&quot;-variables-versus-the-three-&quot;genre&quot;-variables.-This-requires-the-aggregation-of-the-occurrences-of-each-genre-separately-for-each-gender.-You-can-use-whatever-appropriate-data-structure-you-which-to-store-the-results,-but-you-can-display-it-as-as-a-2-x-3-(gender-x-genre)-table-with-entries-representing-the-counts.-Then,-use-Matplotlib-to-create-a-bar-chart-graph-to-visualize-of-the-relationships-between-these-sets-of-variables-(comparing-Male-and-Female-customer-across-the-three-Genres).-Your-chart-should-contain-appropriate-labels-for-axes.-[Hint:-This-example-of-creating-simple-bar-charts-using-Matplotlib-may-be-useful.]">&#182;</a></h3>
+</div>
+</div>
+</div>
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[80]:
+In&nbsp;[23]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
@@ -2669,7 +2683,7 @@ Male:     13 	  6 	  7
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">
-In&nbsp;[81]:
+In&nbsp;[24]:
 </div>
 <div class="inner_cell">
     <div class="input_area">
