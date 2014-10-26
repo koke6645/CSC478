@@ -1,0 +1,86 @@
+=== Run information ===
+
+Scheme:weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     bank_data
+Instances:    600
+Attributes:   12
+              id
+              age
+              income
+              children
+              gender
+              region
+              married
+              car
+              savings_acct
+              current_acct
+              mortgage
+              pep
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+children <= 1
+|   children <= 0
+|   |   married = NO
+|   |   |   mortgage = NO: YES (48.0/3.0)
+|   |   |   mortgage = YES
+|   |   |   |   savings_acct = NO: YES (12.0)
+|   |   |   |   savings_acct = YES: NO (23.0)
+|   |   married = YES
+|   |   |   savings_acct = NO
+|   |   |   |   mortgage = NO
+|   |   |   |   |   income <= 21506.2
+|   |   |   |   |   |   age <= 41: NO (11.0/1.0)
+|   |   |   |   |   |   age > 41: YES (5.0/1.0)
+|   |   |   |   |   income > 21506.2: NO (20.0)
+|   |   |   |   mortgage = YES: YES (25.0/3.0)
+|   |   |   savings_acct = YES: NO (119.0/12.0)
+|   children > 0
+|   |   income <= 15538.8
+|   |   |   age <= 41: NO (22.0/2.0)
+|   |   |   age > 41: YES (2.0)
+|   |   income > 15538.8: YES (111.0/5.0)
+children > 1
+|   income <= 30404.3: NO (124.0/12.0)
+|   income > 30404.3
+|   |   children <= 2: YES (51.0/5.0)
+|   |   children > 2
+|   |   |   income <= 44288.3: NO (19.0/2.0)
+|   |   |   income > 44288.3: YES (8.0)
+
+Number of Leaves  : 	15
+
+Size of the tree : 	29
+
+
+Time taken to build model: 0.08 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         539               89.8333 %
+Incorrectly Classified Instances        61               10.1667 %
+Kappa statistic                          0.7942
+Mean absolute error                      0.167 
+Root mean squared error                  0.305 
+Relative absolute error                 33.6511 %
+Root relative squared error             61.2344 %
+Total Number of Instances              600     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.861     0.071      0.911     0.861     0.886      0.883    YES
+                 0.929     0.139      0.889     0.929     0.909      0.883    NO
+Weighted Avg.    0.898     0.108      0.899     0.898     0.898      0.883
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 236  38 |   a = YES
+  23 303 |   b = NO
+
