@@ -1,0 +1,264 @@
+All-Of-The-Lights::Kanye-West
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.511727, lift: 29.157197]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.528139, lift: 49.902474]
+
+Back-Seat::New-Boyz
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.617512, lift: 35.184585]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.514925, lift: 34.843564]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.507973, lift: 28.943278]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.535308, lift: 32.701849]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.502538, lift: 34.005349]
+
+Written-In-The-Stars::Tinie-Tempah
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.535294, lift: 32.701031]
+
+Down-On-Me::Jeremih
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.511046, lift: 29.118371]
+
+Written-In-The-Stars::Tinie-Tempah
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.505882, lift: 28.824176]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.510823, lift: 31.206064]
+
+Buzzin::Mann
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.524038, lift: 33.237179]
+
+Feels-Like::Katchafire
+           -------->
+Every-Little-Thing::J-Boog
+[confidence: 0.693548, lift: 243.799891]
+
+Every-Little-Thing::J-Boog
+           -------->
+Feels-Like::Katchafire
+[confidence: 0.728814, lift: 243.799891]
+
+I-Need-A-Doctor::Dr.-Dre
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.604651, lift: 36.938042]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.505495, lift: 28.802077]
+
+Back-Seat::New-Boyz
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.585253, lift: 35.753039]
+
+I-Need-A-Doctor::Dr.-Dre
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.622093, lift: 35.445630]
+
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.608247, lift: 72.709231]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.533937, lift: 85.183432]
+
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.567010, lift: 67.779791]
+
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.597765, lift: 71.456217]
+
+No-Hands::Waka-Flocka-Flame
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.597122, lift: 71.379346]
+
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.567073, lift: 67.787306]
+
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.508197, lift: 81.076923]
+
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.537037, lift: 64.196819]
+
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.542857, lift: 94.612245]
+
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.524862, lift: 98.512537]
+
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.521978, lift: 62.396681]
+
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.544974, lift: 65.145541]
+
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.502857, lift: 60.110992]
+
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.617450, lift: 73.809257]
+
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.525714, lift: 83.871648]
+
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.508287, lift: 76.390424]
+
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.500000, lift: 87.142857]
+
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.612245, lift: 73.187085]
+
+No-Hands::Waka-Flocka-Flame
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.666667, lift: 79.692603]
+
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.578231, lift: 92.250131]
+
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.518293, lift: 91.484172]
+
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.624161, lift: 117.150232]
+
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.531429, lift: 113.627099]
+
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.510989, lift: 76.796464]
+
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.597315, lift: 104.103547]

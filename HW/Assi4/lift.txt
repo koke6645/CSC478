@@ -1,0 +1,6261 @@
+Deuces::Chris-Brown-&-Tyga
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.364985, lift: 28.457866]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.231203, lift: 28.457866]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.297935, lift: 37.909043]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.309816, lift: 37.909043]
+
+Bleed-Red::Ronnie-Dunn
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.404255, lift: 47.368674]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Bleed-Red::Ronnie-Dunn
+[confidence: 0.268362, lift: 47.368674]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.440299, lift: 27.925966]
+
+What's-My-Name::Rihanna
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.180428, lift: 27.925966]
+
+What's-My-Name::Rihanna
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.227829, lift: 27.000961]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.425714, lift: 27.000961]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.308824, lift: 27.313433]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.268657, lift: 27.313433]
+
+What's-My-Name::Rihanna
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.191131, lift: 23.525622]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.370920, lift: 23.525622]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.230769, lift: 22.629569]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.297872, lift: 22.629569]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.323442, lift: 37.371532]
+
+Bottoms-Up::Trey-Songz
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.303621, lift: 37.371532]
+
+S&M::Rihanna
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.349315, lift: 21.339601]
+
+Down-On-Me::Jeremih
+           -------->
+S&M::Rihanna
+[confidence: 0.150221, lift: 21.339601]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.323171, lift: 28.766356]
+
+Just-A-Dream::Nelly
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.227468, lift: 28.766356]
+
+Down-On-Me::Jeremih
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.213549, lift: 22.482301]
+
+Yeah-3X::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.368020, lift: 22.482301]
+
+What's-My-Name::Rihanna
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.195719, lift: 22.303324]
+
+Like-A-G6::Far-East-Movement
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.351648, lift: 22.303324]
+
+Buzzin::Mann
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.485577, lift: 37.860396]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Buzzin::Mann
+[confidence: 0.189850, lift: 37.860396]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.346154, lift: 30.615057]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.402985, lift: 30.615057]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.164835, lift: 20.845618]
+
+Right-Above-It::Lil-Wayne
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.274390, lift: 20.845618]
+
+Without-You::Keith-Urban
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.355649, lift: 52.875632]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Without-You::Keith-Urban
+[confidence: 0.304659, lift: 52.875632]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.373626, lift: 48.889659]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.321767, lift: 48.889659]
+
+This::Darius-Rucker
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.339564, lift: 37.460396]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+This::Darius-Rucker
+[confidence: 0.289894, lift: 37.460396]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.361823, lift: 47.345215]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.400631, lift: 47.345215]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.393939, lift: 57.537345]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+[confidence: 0.320423, lift: 57.537345]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.353982, lift: 46.319198]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.378549, lift: 46.319198]
+
+Live-A-Little::Kenny-Chesney
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.360870, lift: 54.831024]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Live-A-Little::Kenny-Chesney
+[confidence: 0.304029, lift: 54.831024]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.397938, lift: 25.239257]
+
+What's-My-Name::Rihanna
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.295107, lift: 25.239257]
+
+Airplanes::B.o.B
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.441176, lift: 36.166008]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Airplanes::B.o.B
+[confidence: 0.177866, lift: 36.166008]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+You-Lie::The-Band-Perry
+[confidence: 0.253561, lift: 45.335003]
+
+You-Lie::The-Band-Perry
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.383621, lift: 45.335003]
+
+Without-You::Keith-Urban
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.397490, lift: 46.575893]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Without-You::Keith-Urban
+[confidence: 0.268362, lift: 46.575893]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.236702, lift: 35.191413]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.318996, lift: 35.191413]
+
+Teenage-Dream::Katy-Perry
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.364807, lift: 33.777207]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Teenage-Dream::Katy-Perry
+[confidence: 0.189732, lift: 33.777207]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Someone-Else-Calling-You-Baby::Luke-Bryan
+[confidence: 0.273504, lift: 37.566084]
+
+Someone-Else-Calling-You-Baby::Luke-Bryan
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.317881, lift: 37.566084]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.366255, lift: 53.493885]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.313380, lift: 53.493885]
+
+Airplanes::B.o.B
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.431373, lift: 27.359837]
+
+What's-My-Name::Rihanna
+           -------->
+Airplanes::B.o.B
+[confidence: 0.134557, lift: 27.359837]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.241758, lift: 27.933515]
+
+Bottoms-Up::Trey-Songz
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.245125, lift: 27.933515]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.227444, lift: 26.279557]
+
+Bottoms-Up::Trey-Songz
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.337047, lift: 26.279557]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.329670, lift: 29.157197]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.511727, lift: 29.157197]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.489712, lift: 29.916423]
+
+Down-On-Me::Jeremih
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.175258, lift: 29.916423]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.295732, lift: 28.999885]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.229314, lift: 28.999885]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.339080, lift: 49.351079]
+
+Rocketeer::Far-East-Movement
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.414035, lift: 49.351079]
+
+Someone-Else-Calling-You-Baby::Luke-Bryan
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.331126, lift: 36.529520]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Someone-Else-Calling-You-Baby::Luke-Bryan
+[confidence: 0.265957, lift: 36.529520]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.299435, lift: 45.496575]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.388278, lift: 45.496575]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.267139, lift: 23.626750]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.240938, lift: 23.626750]
+
+Voices::Chris-Young
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.274390, lift: 30.270498]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Voices::Chris-Young
+[confidence: 0.239362, lift: 30.270498]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.333333, lift: 49.557945]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.308244, lift: 49.557945]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.476190, lift: 29.090399]
+
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.382916, lift: 29.090399]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+[confidence: 0.277904, lift: 49.902474]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.528139, lift: 49.902474]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Somewhere-With-You::Kenny-Chesney
+[confidence: 0.256637, lift: 30.415171]
+
+Somewhere-With-You::Kenny-Chesney
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.248571, lift: 30.415171]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Firework::Katy-Perry
+[confidence: 0.473881, lift: 34.364628]
+
+Firework::Katy-Perry
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.222028, lift: 34.364628]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.425714, lift: 33.192911]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.280075, lift: 33.192911]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Live-A-Little::Kenny-Chesney
+[confidence: 0.259587, lift: 46.815955]
+
+Live-A-Little::Kenny-Chesney
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.382609, lift: 46.815955]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+You-Be-Killin-Em::Fabolous
+[confidence: 0.155220, lift: 22.278604]
+
+You-Be-Killin-Em::Fabolous
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.391003, lift: 22.278604]
+
+You-Be-Killin-Em::Fabolous
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.318339, lift: 31.216799]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+You-Be-Killin-Em::Fabolous
+[confidence: 0.217494, lift: 31.216799]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+This::Darius-Rucker
+[confidence: 0.321937, lift: 41.601122]
+
+This::Darius-Rucker
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.352025, lift: 41.601122]
+
+Down-On-Me::Jeremih
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.217968, lift: 21.374222]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.349882, lift: 21.374222]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Back-Seat::New-Boyz
+[confidence: 0.184066, lift: 35.184585]
+
+Back-Seat::New-Boyz
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.617512, lift: 35.184585]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Bleed-Red::Ronnie-Dunn
+[confidence: 0.253687, lift: 44.778510]
+
+Bleed-Red::Ronnie-Dunn
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.365957, lift: 44.778510]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.284900, lift: 42.357218]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.358423, lift: 42.357218]
+
+Your-Love::Brandon-Heath
+           -------->
+Beautiful::MercyMe
+[confidence: 0.337037, lift: 43.282651]
+
+Beautiful::MercyMe
+           -------->
+Your-Love::Brandon-Heath
+[confidence: 0.281734, lift: 43.282651]
+
+Unwind::One-Groove
+           -------->
+Ups-And-Downs::Ho'okoa
+[confidence: 0.425339, lift: 71.429461]
+
+Ups-And-Downs::Ho'okoa
+           -------->
+Unwind::One-Groove
+[confidence: 0.380567, lift: 71.429461]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.151099, lift: 21.991517]
+
+Rocketeer::Far-East-Movement
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.385965, lift: 21.991517]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.248571, lift: 28.720732]
+
+Bottoms-Up::Trey-Songz
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.242340, lift: 28.720732]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.244838, lift: 39.363838]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.321705, lift: 39.363838]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.514925, lift: 34.843564]
+
+Grenade::Bruno-Mars
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.225122, lift: 34.843564]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.210309, lift: 22.141190]
+
+Yeah-3X::Chris-Brown
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.258883, lift: 22.141190]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.380734, lift: 25.763204]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.406199, lift: 25.763204]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.407080, lift: 48.107304]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.393162, lift: 48.107304]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.364672, lift: 40.230345]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.340426, lift: 40.230345]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.263918, lift: 31.277997]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.365714, lift: 31.277997]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.258242, lift: 32.167772]
+
+Dynamite::Taio-Cruz
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.282282, lift: 32.167772]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Teenage-Dream::Katy-Perry
+[confidence: 0.175889, lift: 31.312830]
+
+Teenage-Dream::Katy-Perry
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.381974, lift: 31.312830]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.308300, lift: 27.442705]
+
+Just-A-Dream::Nelly
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.334764, lift: 27.442705]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.310277, lift: 20.995557]
+
+Grenade::Bruno-Mars
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.256117, lift: 20.995557]
+
+This::Darius-Rucker
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.373832, lift: 48.916536]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+This::Darius-Rucker
+[confidence: 0.378549, lift: 48.916536]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.306319, lift: 28.943278]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.507973, lift: 28.943278]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.333333, lift: 20.363279]
+
+Down-On-Me::Jeremih
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.170839, lift: 20.363279]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.407745, lift: 30.976662]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.327839, lift: 30.976662]
+
+This::Darius-Rucker
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.358255, lift: 41.978633]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+This::Darius-Rucker
+[confidence: 0.324859, lift: 41.978633]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.308036, lift: 35.102531]
+
+Like-A-G6::Far-East-Movement
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.379121, lift: 35.102531]
+
+Yeah-3X::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.329949, lift: 25.726117]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.244361, lift: 25.726117]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Somewhere-With-You::Kenny-Chesney
+[confidence: 0.270655, lift: 32.076516]
+
+Somewhere-With-You::Kenny-Chesney
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.271429, lift: 32.076516]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.335821, lift: 29.892384]
+
+Just-A-Dream::Nelly
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.193133, lift: 29.892384]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.308772, lift: 40.403343]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.277603, lift: 40.403343]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.283537, lift: 32.760717]
+
+Bottoms-Up::Trey-Songz
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.259053, lift: 32.760717]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.187629, lift: 21.679235]
+
+Bottoms-Up::Trey-Songz
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.253482, lift: 21.679235]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.225446, lift: 26.048796]
+
+Bottoms-Up::Trey-Songz
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.281337, lift: 26.048796]
+
+Yeah-3X::Chris-Brown
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.327411, lift: 47.652685]
+
+Rocketeer::Far-East-Movement
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.452632, lift: 47.652685]
+
+Live-A-Little::Kenny-Chesney
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.404348, lift: 60.115942]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Live-A-Little::Kenny-Chesney
+[confidence: 0.333333, lift: 60.115942]
+
+Firework::Katy-Perry
+           -------->
+Raise-Your-Glass::Pink
+[confidence: 0.160839, lift: 21.874126]
+
+Raise-Your-Glass::Pink
+           -------->
+Firework::Katy-Perry
+[confidence: 0.301639, lift: 21.874126]
+
+Down-On-Me::Jeremih
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.172312, lift: 25.078986]
+
+Rocketeer::Far-East-Movement
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.410526, lift: 25.078986]
+
+Yeah-3X::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.213198, lift: 21.675127]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.205882, lift: 21.675127]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.268362, lift: 34.146130]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.291411, lift: 34.146130]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Someone-Else-Calling-You-Baby::Luke-Bryan
+[confidence: 0.277286, lift: 38.085526]
+
+Someone-Else-Calling-You-Baby::Luke-Bryan
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.311258, lift: 38.085526]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.195876, lift: 24.109639]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.281899, lift: 24.109639]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.535308, lift: 32.701849]
+
+Down-On-Me::Jeremih
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.346097, lift: 32.701849]
+
+Without-You::Keith-Urban
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.368201, lift: 55.944948]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Without-You::Keith-Urban
+[confidence: 0.322344, lift: 55.944948]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.300366, lift: 30.537241]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.401961, lift: 30.537241]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.334021, lift: 25.375779]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.296703, lift: 25.375779]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.502538, lift: 34.005349]
+
+Grenade::Bruno-Mars
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.323002, lift: 34.005349]
+
+I-Can't-Love-You-Back::Easton-Corbin
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.355102, lift: 41.609132]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+I-Can't-Love-You-Back::Easton-Corbin
+[confidence: 0.245763, lift: 41.609132]
+
+Hello-World::Lady-Antebellum
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.427046, lift: 47.111380]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Hello-World::Lady-Antebellum
+[confidence: 0.319149, lift: 47.111380]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.390805, lift: 26.444657]
+
+Grenade::Bruno-Mars
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.221860, lift: 26.444657]
+
+Bleed-Red::Ronnie-Dunn
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.357447, lift: 54.310966]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Bleed-Red::Ronnie-Dunn
+[confidence: 0.307692, lift: 54.310966]
+
+Tonight::Enrique-Iglesias
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.238443, lift: 25.103067]
+
+Yeah-3X::Chris-Brown
+           -------->
+Tonight::Enrique-Iglesias
+[confidence: 0.248731, lift: 25.103067]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.346154, lift: 30.812149]
+
+Just-A-Dream::Nelly
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.270386, lift: 30.812149]
+
+What's-My-Name::Rihanna
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.227829, lift: 21.094501]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.332589, lift: 21.094501]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.273504, lift: 41.556620]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.351648, lift: 41.556620]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+This::Darius-Rucker
+[confidence: 0.342183, lift: 44.217278]
+
+This::Darius-Rucker
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.361371, lift: 44.217278]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.314286, lift: 30.819318]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.260047, lift: 30.819318]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.391473, lift: 51.224904]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.318612, lift: 51.224904]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.286598, lift: 28.104214]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.328605, lift: 28.104214]
+
+Written-In-The-Stars::Tinie-Tempah
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.535294, lift: 32.701031]
+
+Down-On-Me::Jeremih
+           -------->
+Written-In-The-Stars::Tinie-Tempah
+[confidence: 0.134021, lift: 32.701031]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.276596, lift: 40.256812]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.364912, lift: 40.256812]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.371681, lift: 41.003577]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.335106, lift: 41.003577]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.476648, lift: 29.118371]
+
+Down-On-Me::Jeremih
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.511046, lift: 29.118371]
+
+Bottoms-Up::Trey-Songz
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.311978, lift: 27.770034]
+
+Just-A-Dream::Nelly
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.240343, lift: 27.770034]
+
+Yeah-3X::Chris-Brown
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.271574, lift: 24.173547]
+
+Just-A-Dream::Nelly
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.229614, lift: 24.173547]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Without-You::Keith-Urban
+[confidence: 0.247788, lift: 43.005147]
+
+Without-You::Keith-Urban
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.351464, lift: 43.005147]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.289216, lift: 22.550125]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.221805, lift: 22.550125]
+
+What's-My-Name::Rihanna
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.171254, lift: 24.924942]
+
+Rocketeer::Far-East-Movement
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.392982, lift: 24.924942]
+
+Airplanes::B.o.B
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.446078, lift: 41.302083]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Airplanes::B.o.B
+[confidence: 0.203125, lift: 41.302083]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.298851, lift: 23.301357]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.195489, lift: 23.301357]
+
+Firework::Katy-Perry
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.243007, lift: 25.583579]
+
+Yeah-3X::Chris-Brown
+           -------->
+Firework::Katy-Perry
+[confidence: 0.352792, lift: 25.583579]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.304598, lift: 27.113117]
+
+Just-A-Dream::Nelly
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.227468, lift: 27.113117]
+
+E.T.-(Futuristic-Lover)::Katy-Perry
+           -------->
+S&M::Rihanna
+[confidence: 0.393365, lift: 55.879374]
+
+S&M::Rihanna
+           -------->
+E.T.-(Futuristic-Lover)::Katy-Perry
+[confidence: 0.284247, lift: 55.879374]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.296875, lift: 36.980105]
+
+Dynamite::Taio-Cruz
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.399399, lift: 36.980105]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.261278, lift: 23.108357]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.296375, lift: 23.108357]
+
+Grenade::Bruno-Mars
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.231648, lift: 20.619622]
+
+Just-A-Dream::Nelly
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.304721, lift: 20.619622]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+You-Lie::The-Band-Perry
+[confidence: 0.268362, lift: 47.981200]
+
+You-Lie::The-Band-Perry
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.409483, lift: 47.981200]
+
+Firework::Katy-Perry
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.342657, lift: 23.186667]
+
+Grenade::Bruno-Mars
+           -------->
+Firework::Katy-Perry
+[confidence: 0.319739, lift: 23.186667]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.265957, lift: 34.800993]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.315457, lift: 34.800993]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.361702, lift: 28.201888]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.287594, lift: 28.201888]
+
+What's-My-Name::Rihanna
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.247706, lift: 22.049061]
+
+Just-A-Dream::Nelly
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.347639, lift: 22.049061]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.257143, lift: 22.889025]
+
+Just-A-Dream::Nelly
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.193133, lift: 22.889025]
+
+Somewhere-With-You::Kenny-Chesney
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.280000, lift: 35.626994]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Somewhere-With-You::Kenny-Chesney
+[confidence: 0.300613, lift: 35.626994]
+
+Firework::Katy-Perry
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.162587, lift: 20.252630]
+
+Dynamite::Taio-Cruz
+           -------->
+Firework::Katy-Perry
+[confidence: 0.279279, lift: 20.252630]
+
+This::Darius-Rucker
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.299065, lift: 48.082301]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+This::Darius-Rucker
+[confidence: 0.372093, lift: 48.082301]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Hello-World::Lady-Antebellum
+[confidence: 0.262537, lift: 38.754553]
+
+Hello-World::Lady-Antebellum
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.316726, lift: 38.754553]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.252226, lift: 28.742622]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.233516, lift: 28.742622]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.231225, lift: 24.343211]
+
+Yeah-3X::Chris-Brown
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.296954, lift: 24.343211]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.441913, lift: 39.084370]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.413646, lift: 39.084370]
+
+Bleed-Red::Ronnie-Dunn
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.357447, lift: 53.142988]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Bleed-Red::Ronnie-Dunn
+[confidence: 0.301075, lift: 53.142988]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.243981, lift: 21.717427]
+
+Just-A-Dream::Nelly
+           -------->
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.326180, lift: 21.717427]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.284585, lift: 26.349520]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.321429, lift: 26.349520]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Written-In-The-Stars::Tinie-Tempah
+[confidence: 0.118132, lift: 28.824176]
+
+Written-In-The-Stars::Tinie-Tempah
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.505882, lift: 28.824176]
+
+Hello-World::Lady-Antebellum
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.313167, lift: 45.579572]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+Hello-World::Lady-Antebellum
+[confidence: 0.308772, lift: 45.579572]
+
+Hello-World::Lady-Antebellum
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.345196, lift: 43.922450]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Hello-World::Lady-Antebellum
+[confidence: 0.297546, lift: 43.922450]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Buzzin::Mann
+[confidence: 0.175258, lift: 34.950436]
+
+Buzzin::Mann
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.408654, lift: 34.950436]
+
+Down-On-Me::Jeremih
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+[confidence: 0.173785, lift: 31.206064]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.510823, lift: 31.206064]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.452675, lift: 42.772106]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.250569, lift: 42.772106]
+
+Airplanes::B.o.B
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.416667, lift: 28.194671]
+
+Grenade::Bruno-Mars
+           -------->
+Airplanes::B.o.B
+[confidence: 0.138662, lift: 28.194671]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.433099, lift: 38.304754]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.262260, lift: 38.304754]
+
+What's-My-Name::Rihanna
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.221713, lift: 21.741456]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.342790, lift: 21.741456]
+
+What's-My-Name::Rihanna
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.288991, lift: 30.424719]
+
+Yeah-3X::Chris-Brown
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.479695, lift: 30.424719]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.355311, lift: 27.703600]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.364662, lift: 27.703600]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.381356, lift: 49.901085]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.425868, lift: 49.901085]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.287016, lift: 22.378612]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.236842, lift: 22.378612]
+
+Live-A-Little::Kenny-Chesney
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.382609, lift: 50.065012]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Live-A-Little::Kenny-Chesney
+[confidence: 0.277603, lift: 50.065012]
+
+What's-My-Name::Rihanna
+           -------->
+Buzzin::Mann
+[confidence: 0.166667, lift: 33.237179]
+
+Buzzin::Mann
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.524038, lift: 33.237179]
+
+Dynamite::Taio-Cruz
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.345345, lift: 30.740182]
+
+Just-A-Dream::Nelly
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.246781, lift: 30.740182]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Back-Seat::New-Boyz
+[confidence: 0.220957, lift: 42.236335]
+
+Back-Seat::New-Boyz
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.447005, lift: 42.236335]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.321767, lift: 47.838269]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.365591, lift: 47.838269]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Hello-World::Lady-Antebellum
+[confidence: 0.256410, lift: 37.850169]
+
+Hello-World::Lady-Antebellum
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.320285, lift: 37.850169]
+
+Put-You-In-A-Song::Keith-Urban
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.312727, lift: 39.791188]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Put-You-In-A-Song::Keith-Urban
+[confidence: 0.263804, lift: 39.791188]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.251374, lift: 25.556319]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.448529, lift: 25.556319]
+
+Someone-Else-Calling-You-Baby::Luke-Bryan
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.278146, lift: 35.391054]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Someone-Else-Calling-You-Baby::Luke-Bryan
+[confidence: 0.257669, lift: 35.391054]
+
+Bleed-Red::Ronnie-Dunn
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.353191, lift: 46.215719]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Bleed-Red::Ronnie-Dunn
+[confidence: 0.261830, lift: 46.215719]
+
+S&M::Rihanna
+           -------->
+F**k-You::Cee-Lo-Green
+[confidence: 0.308219, lift: 53.049508]
+
+F**k-You::Cee-Lo-Green
+           -------->
+S&M::Rihanna
+[confidence: 0.373444, lift: 53.049508]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.307692, lift: 39.150543]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.331288, lift: 39.150543]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.262846, lift: 32.741279]
+
+Dynamite::Taio-Cruz
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.399399, lift: 32.741279]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.419913, lift: 37.138611]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+[confidence: 0.206823, lift: 37.138611]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.420619, lift: 32.795597]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.383459, lift: 32.795597]
+
+Back-Seat::New-Boyz
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.423963, lift: 37.496782]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Back-Seat::New-Boyz
+[confidence: 0.196162, lift: 37.496782]
+
+Tonight::Enrique-Iglesias
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.345499, lift: 23.378939]
+
+Grenade::Bruno-Mars
+           -------->
+Tonight::Enrique-Iglesias
+[confidence: 0.231648, lift: 23.378939]
+
+Someone-Else-Calling-You-Baby::Luke-Bryan
+           -------->
+Hello-World::Lady-Antebellum
+[confidence: 0.284768, lift: 42.036247]
+
+Hello-World::Lady-Antebellum
+           -------->
+Someone-Else-Calling-You-Baby::Luke-Bryan
+[confidence: 0.306050, lift: 42.036247]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.326409, lift: 32.008194]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.260047, lift: 32.008194]
+
+Put-You-In-A-Song::Keith-Urban
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.301818, lift: 33.296325]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Put-You-In-A-Song::Keith-Urban
+[confidence: 0.220745, lift: 33.296325]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Club-Can't-Handle-Me::Flo-Rida
+[confidence: 0.138042, lift: 30.296143]
+
+Club-Can't-Handle-Me::Flo-Rida
+           -------->
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.455026, lift: 30.296143]
+
+Your-Love::Brandon-Heath
+           -------->
+I-Will-Follow::Chris-Tomlin
+[confidence: 0.318519, lift: 37.217319]
+
+I-Will-Follow::Chris-Tomlin
+           -------->
+Your-Love::Brandon-Heath
+[confidence: 0.242254, lift: 37.217319]
+
+I-Like-It::Enrique-Iglesias
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.380753, lift: 33.891932]
+
+Just-A-Dream::Nelly
+           -------->
+I-Like-It::Enrique-Iglesias
+[confidence: 0.195279, lift: 33.891932]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.316092, lift: 27.034009]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.226804, lift: 27.034009]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.197432, lift: 22.498545]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.337912, lift: 22.498545]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.244253, lift: 27.834091]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.233516, lift: 27.834091]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.338733, lift: 29.958769]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.490405, lift: 29.958769]
+
+Without-You::Keith-Urban
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.364017, lift: 47.632222]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Without-You::Keith-Urban
+[confidence: 0.274448, lift: 47.632222]
+
+What's-My-Name::Rihanna
+           -------->
+Bottoms-Up::Trey-Songz
+[confidence: 0.174312, lift: 20.140554]
+
+Bottoms-Up::Trey-Songz
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.317549, lift: 20.140554]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.347095, lift: 27.062956]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.426692, lift: 27.062956]
+
+This::Darius-Rucker
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.320872, lift: 47.705312]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+This::Darius-Rucker
+[confidence: 0.369176, lift: 47.705312]
+
+Down-On-Me::Jeremih
+           -------->
+Buzzin::Mann
+[confidence: 0.147275, lift: 29.370114]
+
+Buzzin::Mann
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.480769, lift: 29.370114]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.267241, lift: 24.743688]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.207589, lift: 24.743688]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.263918, lift: 33.375911]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.390244, lift: 33.375911]
+
+Feels-Like::Katchafire
+           -------->
+Every-Little-Thing::J-Boog
+[confidence: 0.693548, lift: 243.799891]
+
+Every-Little-Thing::J-Boog
+           -------->
+Feels-Like::Katchafire
+[confidence: 0.728814, lift: 243.799891]
+
+Grenade::Bruno-Mars
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.225122, lift: 32.765176]
+
+Rocketeer::Far-East-Movement
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.484211, lift: 32.765176]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Let's-Make-A-Movie::Twista
+[confidence: 0.197938, lift: 37.490750]
+
+Let's-Make-A-Movie::Twista
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.438356, lift: 37.490750]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.294551, lift: 29.945999]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.490196, lift: 29.945999]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.274390, lift: 32.519164]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.257143, lift: 32.519164]
+
+Down-On-Me::Jeremih
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.160530, lift: 20.301196]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.332317, lift: 20.301196]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.298405, lift: 43.584010]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.461268, lift: 43.584010]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.303571, lift: 23.669441]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.415414, lift: 23.669441]
+
+Light-Up-The-Sky::The-Afters
+           -------->
+I-Will-Follow::Chris-Tomlin
+[confidence: 0.297030, lift: 34.706457]
+
+I-Will-Follow::Chris-Tomlin
+           -------->
+Light-Up-The-Sky::The-Afters
+[confidence: 0.253521, lift: 34.706457]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.209486, lift: 32.423456]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.395522, lift: 32.423456]
+
+Down-On-Me::Jeremih
+           -------->
+I-Need-A-Doctor::Dr.-Dre
+[confidence: 0.153166, lift: 36.938042]
+
+I-Need-A-Doctor::Dr.-Dre
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.604651, lift: 36.938042]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.305638, lift: 27.205716]
+
+Just-A-Dream::Nelly
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.221030, lift: 27.205716]
+
+This::Darius-Rucker
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.308411, lift: 46.860429]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+This::Darius-Rucker
+[confidence: 0.362637, lift: 46.860429]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Buzzin::Mann
+[confidence: 0.116758, lift: 23.284288]
+
+Buzzin::Mann
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.408654, lift: 23.284288]
+
+Teenage-Dream::Katy-Perry
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.394850, lift: 49.184292]
+
+Dynamite::Taio-Cruz
+           -------->
+Teenage-Dream::Katy-Perry
+[confidence: 0.276276, lift: 49.184292]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.271386, lift: 41.234832]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.336996, lift: 41.234832]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.285311, lift: 42.418241]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.362007, lift: 42.418241]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.334821, lift: 22.656432]
+
+Grenade::Bruno-Mars
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.244698, lift: 22.656432]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.287234, lift: 36.547448]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.331288, lift: 36.547448]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.313187, lift: 21.192478]
+
+Grenade::Bruno-Mars
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.185971, lift: 21.192478]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+All-Of-The-Lights::Kanye-West
+[confidence: 0.386831, lift: 34.212711]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.200426, lift: 34.212711]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.421642, lift: 44.390105]
+
+Yeah-3X::Chris-Brown
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.286802, lift: 44.390105]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.316489, lift: 37.084686]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.336158, lift: 37.084686]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.296900, lift: 23.149309]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.342105, lift: 23.149309]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.406186, lift: 24.813810]
+
+Down-On-Me::Jeremih
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.290133, lift: 24.813810]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Live-A-Little::Kenny-Chesney
+[confidence: 0.251412, lift: 45.341685]
+
+Live-A-Little::Kenny-Chesney
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.386957, lift: 45.341685]
+
+Down-On-Me::Jeremih
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.187040, lift: 27.318343]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.447183, lift: 27.318343]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.241758, lift: 20.676561]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.362887, lift: 20.676561]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.296296, lift: 43.124107]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.364912, lift: 43.124107]
+
+Yeah-3X::Chris-Brown
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.210660, lift: 24.005969]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.228022, lift: 24.005969]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.362069, lift: 22.964252]
+
+What's-My-Name::Rihanna
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.192661, lift: 22.964252]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.347985, lift: 51.736316]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.340502, lift: 51.736316]
+
+Without-You::Keith-Urban
+           -------->
+You-Lie::The-Band-Perry
+[confidence: 0.347280, lift: 62.091329]
+
+You-Lie::The-Band-Perry
+           -------->
+Without-You::Keith-Urban
+[confidence: 0.357759, lift: 62.091329]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.379121, lift: 28.802077]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.505495, lift: 28.802077]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+I-Can't-Love-You-Back::Easton-Corbin
+[confidence: 0.223404, lift: 37.823708]
+
+I-Can't-Love-You-Back::Easton-Corbin
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.342857, lift: 37.823708]
+
+Right-Above-It::Lil-Wayne
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.332317, lift: 40.903597]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.323442, lift: 40.903597]
+
+Yeah-3X::Chris-Brown
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.329949, lift: 30.549764]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.290179, lift: 30.549764]
+
+Tonight::Enrique-Iglesias
+           -------->
+Rocketeer::Far-East-Movement
+[confidence: 0.209246, lift: 30.454433]
+
+Rocketeer::Far-East-Movement
+           -------->
+Tonight::Enrique-Iglesias
+[confidence: 0.301754, lift: 30.454433]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.297546, lift: 38.934412]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.305994, lift: 38.934412]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.334852, lift: 34.043280]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.360294, lift: 34.043280]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.320513, lift: 20.328550]
+
+What's-My-Name::Rihanna
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.267584, lift: 20.328550]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.271386, lift: 39.498629]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.322807, lift: 39.498629]
+
+Live-A-Little::Kenny-Chesney
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.386957, lift: 62.213010]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+Live-A-Little::Kenny-Chesney
+[confidence: 0.344961, lift: 62.213010]
+
+Let-Me-Down-Easy::Billy-Currington
+           -------->
+Somewhere-With-You::Kenny-Chesney
+[confidence: 0.265957, lift: 31.519757]
+
+Somewhere-With-You::Kenny-Chesney
+           -------->
+Let-Me-Down-Easy::Billy-Currington
+[confidence: 0.285714, lift: 31.519757]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.271429, lift: 33.409072]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.281899, lift: 33.409072]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.156593, lift: 26.730430]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.469136, lift: 26.730430]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.207418, lift: 20.339672]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.356974, lift: 20.339672]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+You-Lie::The-Band-Perry
+[confidence: 0.268437, lift: 47.994609]
+
+You-Lie::The-Band-Perry
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.392241, lift: 47.994609]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.408046, lift: 42.958749]
+
+Yeah-3X::Chris-Brown
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.360406, lift: 42.958749]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.410029, lift: 48.045264]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.392655, lift: 48.045264]
+
+Down-On-Me::Jeremih
+           -------->
+Back-Seat::New-Boyz
+[confidence: 0.187040, lift: 35.753039]
+
+Back-Seat::New-Boyz
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.585253, lift: 35.753039]
+
+Grenade::Bruno-Mars
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.181077, lift: 22.555737]
+
+Dynamite::Taio-Cruz
+           -------->
+Grenade::Bruno-Mars
+[confidence: 0.333333, lift: 22.555737]
+
+I-Will-Follow::Chris-Tomlin
+           -------->
+Beautiful::MercyMe
+[confidence: 0.281690, lift: 36.174944]
+
+Beautiful::MercyMe
+           -------->
+I-Will-Follow::Chris-Tomlin
+[confidence: 0.309598, lift: 36.174944]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Heart-Like-Mine::Miranda-Lambert
+[confidence: 0.321534, lift: 47.803682]
+
+Heart-Like-Mine::Miranda-Lambert
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.390681, lift: 47.803682]
+
+This::Darius-Rucker
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.271028, lift: 39.446467]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+This::Darius-Rucker
+[confidence: 0.305263, lift: 39.446467]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.350515, lift: 27.329664]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.447368, lift: 27.329664]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+[confidence: 0.350877, lift: 44.645356]
+
+Who-Are-You-When-I'm-Not-Looking::Blake-Shelton
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.306748, lift: 44.645356]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+I-Won't-Let-Go::Rascal-Flatts
+[confidence: 0.321705, lift: 48.880370]
+
+I-Won't-Let-Go::Rascal-Flatts
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.304029, lift: 48.880370]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+I-Need-A-Doctor::Dr.-Dre
+[confidence: 0.146978, lift: 35.445630]
+
+I-Need-A-Doctor::Dr.-Dre
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.622093, lift: 35.445630]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Somewhere-With-You::Kenny-Chesney
+[confidence: 0.290960, lift: 34.482970]
+
+Somewhere-With-You::Kenny-Chesney
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.294286, lift: 34.482970]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.208668, lift: 25.992606]
+
+Dynamite::Taio-Cruz
+           -------->
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.390390, lift: 25.992606]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Teenage-Dream::Katy-Perry
+[confidence: 0.170144, lift: 30.290096]
+
+Teenage-Dream::Katy-Perry
+           -------->
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.454936, lift: 30.290096]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Like-A-G6::Far-East-Movement
+[confidence: 0.274704, lift: 31.304131]
+
+Like-A-G6::Far-East-Movement
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.381868, lift: 31.304131]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.173077, lift: 25.278982]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.443662, lift: 25.278982]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+A-Little-Bit-Stronger::Sara-Evans
+[confidence: 0.290960, lift: 46.779223]
+
+A-Little-Bit-Stronger::Sara-Evans
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.399225, lift: 46.779223]
+
+Yeah-3X::Chris-Brown
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.230964, lift: 28.769988]
+
+Dynamite::Taio-Cruz
+           -------->
+Yeah-3X::Chris-Brown
+[confidence: 0.273273, lift: 28.769988]
+
+What's-My-Name::Rihanna
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.214067, lift: 27.071679]
+
+Right-Above-It::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.426829, lift: 27.071679]
+
+You-Lie::The-Band-Perry
+           -------->
+What-Do-You-Want::Jerrod-Niemann
+[confidence: 0.370690, lift: 48.505385]
+
+What-Do-You-Want::Jerrod-Niemann
+           -------->
+You-Lie::The-Band-Perry
+[confidence: 0.271293, lift: 48.505385]
+
+Felt-Good-On-My-Lips::Tim-McGraw
+           -------->
+This::Darius-Rucker
+[confidence: 0.281879, lift: 36.424763]
+
+This::Darius-Rucker
+           -------->
+Felt-Good-On-My-Lips::Tim-McGraw
+[confidence: 0.261682, lift: 36.424763]
+
+What's-My-Name::Rihanna
+           -------->
+Dynamite::Taio-Cruz
+[confidence: 0.162080, lift: 20.189364]
+
+Dynamite::Taio-Cruz
+           -------->
+What's-My-Name::Rihanna
+[confidence: 0.318318, lift: 20.189364]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Roll-Up::Wiz-Khalifa
+[confidence: 0.164835, lift: 24.075221]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.316901, lift: 24.075221]
+
+Right-Above-It::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.445122, lift: 34.706125]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Right-Above-It::Lil-Wayne
+[confidence: 0.274436, lift: 34.706125]
+
+Let's-Make-A-Movie::Twista
+           -------->
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.470320, lift: 36.670787]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Let's-Make-A-Movie::Twista
+[confidence: 0.193609, lift: 36.670787]
+
+This-Is-Country-Music::Brad-Paisley
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.301754, lift: 35.358113]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+This-Is-Country-Music::Brad-Paisley
+[confidence: 0.242938, lift: 35.358113]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Just-A-Dream::Nelly
+[confidence: 0.350446, lift: 31.194244]
+
+Just-A-Dream::Nelly
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.336910, lift: 31.194244]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+I-Can't-Love-You-Back::Easton-Corbin
+[confidence: 0.262537, lift: 44.449100]
+
+I-Can't-Love-You-Back::Easton-Corbin
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.363265, lift: 44.449100]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+[confidence: 0.120879, lift: 21.705913]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.380952, lift: 21.705913]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.231140, lift: 21.401055]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.321429, lift: 21.401055]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.349794, lift: 35.562414]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.208333, lift: 35.562414]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Deuces::Chris-Brown-&-Tyga
+[confidence: 0.209821, lift: 25.826092]
+
+Deuces::Chris-Brown-&-Tyga
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.278932, lift: 25.826092]
+
+Down-On-Me::Jeremih
+           -------->
+Let's-Make-A-Movie::Twista
+[confidence: 0.148748, lift: 28.173852]
+
+Let's-Make-A-Movie::Twista
+           -------->
+Down-On-Me::Jeremih
+[confidence: 0.461187, lift: 28.173852]
+
+I-Like-It::Enrique-Iglesias
+           -------->
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.376569, lift: 30.869731]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+I-Like-It::Enrique-Iglesias
+[confidence: 0.177866, lift: 30.869731]
+
+Someone-Else-Calling-You-Baby::Luke-Bryan
+           -------->
+Somewhere-With-You::Kenny-Chesney
+[confidence: 0.298013, lift: 35.318827]
+
+Somewhere-With-You::Kenny-Chesney
+           -------->
+Someone-Else-Calling-You-Baby::Luke-Bryan
+[confidence: 0.257143, lift: 35.318827]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Let's-Make-A-Movie::Twista
+[confidence: 0.135989, lift: 25.757188]
+
+Let's-Make-A-Movie::Twista
+           -------->
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.452055, lift: 25.757188]
+
+Tonight::Enrique-Iglesias
+           -------->
+We-R-Who-We-R::Ke$ha
+[confidence: 0.248175, lift: 38.411592]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Tonight::Enrique-Iglesias
+[confidence: 0.380597, lift: 38.411592]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Little-Miss::Sugarland
+[confidence: 0.244838, lift: 54.020586]
+
+Little-Miss::Sugarland
+           -------->
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.441489, lift: 54.020586]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+[confidence: 0.376068, lift: 44.065865]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.372881, lift: 44.065865]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.223350, lift: 61.763790]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.196429, lift: 41.150794]
+
+Grenade::Bruno-Mars
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+Yeah-3X::Chris-Brown
+[confidence: 0.143556, lift: 45.805496]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.203364, lift: 42.603713]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Yeah-3X::Chris-Brown
+[confidence: 0.216966, lift: 47.617667]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.337563, lift: 56.233462]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Aston-Martin-Music::Rick-Ross
+[confidence: 0.171134, lift: 46.396334]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.196217, lift: 39.897557]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Aston-Martin-Music::Rick-Ross
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.156015, lift: 46.557581]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.243299, lift: 44.458331]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.180428, lift: 36.687054]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.221805, lift: 47.670731]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.115385, lift: 40.560626]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.205882, lift: 38.642534]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.157895, lift: 35.789474]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.179945, lift: 41.238237]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.192931, lift: 45.730107]
+
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.213703, lift: 25.545834]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.207658, lift: 44.400346]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.258242, lift: 45.007849]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+[confidence: 0.265038, lift: 42.283690]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.216401, lift: 54.733596]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.173993, lift: 49.096708]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.232843, lift: 53.957169]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Right-Thru-Me::Nicki-Minaj
+What's-My-Name::Rihanna
+[confidence: 0.173196, lift: 48.215872]
+
+What's-My-Name::Rihanna
+           -------->
+Right-Thru-Me::Nicki-Minaj
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.128440, lift: 41.622706]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.240000, lift: 51.581347]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.140110, lift: 35.875051]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.210309, lift: 31.607351]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.186813, lift: 44.028472]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.247126, lift: 51.771740]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.218274, lift: 66.573604]
+
+Grenade::Bruno-Mars
+           -------->
+Yeah-3X::Chris-Brown
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.140294, lift: 40.981550]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Yeah-3X::Chris-Brown
+Down-On-Me::Jeremih
+[confidence: 0.153846, lift: 44.010610]
+
+Down-On-Me::Jeremih
+           -------->
+Yeah-3X::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.164948, lift: 50.681940]
+
+Yeah-3X::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.284264, lift: 33.980602]
+
+Yeah-3X::Chris-Brown
+           -------->
+Just-A-Dream::Nelly
+What's-My-Name::Rihanna
+[confidence: 0.218274, lift: 55.888952]
+
+What's-My-Name::Rihanna
+           -------->
+Just-A-Dream::Nelly
+Yeah-3X::Chris-Brown
+[confidence: 0.131498, lift: 50.977164]
+
+Just-A-Dream::Nelly
+           -------->
+Yeah-3X::Chris-Brown
+What's-My-Name::Rihanna
+[confidence: 0.184549, lift: 40.503213]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Rocketeer::Far-East-Movement
+Down-On-Me::Jeremih
+[confidence: 0.127747, lift: 45.290223]
+
+Down-On-Me::Jeremih
+           -------->
+Rocketeer::Far-East-Movement
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.136966, lift: 51.648681]
+
+Rocketeer::Far-East-Movement
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.326316, lift: 39.007432]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.167984, lift: 35.191839]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.215736, lift: 56.998286]
+
+Grenade::Bruno-Mars
+           -------->
+Yeah-3X::Chris-Brown
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.138662, lift: 49.159939]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.134615, lift: 40.171555]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.184211, lift: 31.837719]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.208955, lift: 39.219288]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.339552, lift: 56.564767]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+We-R-Who-We-R::Ke$ha
+[confidence: 0.139144, lift: 41.823782]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+We-R-Who-We-R::Ke$ha
+[confidence: 0.148450, lift: 52.184035]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.142857, lift: 40.310982]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.236902, lift: 53.697798]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.254902, lift: 47.414051]
+
+What's-My-Name::Rihanna
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+Yeah-3X::Chris-Brown
+[confidence: 0.136086, lift: 43.421783]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+What's-My-Name::Rihanna
+Yeah-3X::Chris-Brown
+[confidence: 0.198661, lift: 43.600246]
+
+Yeah-3X::Chris-Brown
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+What's-My-Name::Rihanna
+[confidence: 0.225888, lift: 62.884884]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.181443, lift: 30.225976]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.134557, lift: 41.965464]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.143556, lift: 30.853443]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.152473, lift: 27.861500]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.169725, lift: 31.856034]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.208647, lift: 43.490762]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+[confidence: 0.119505, lift: 42.733516]
+
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.250000, lift: 29.884726]
+
+Down-On-Me::Jeremih
+           -------->
+Hey-Baby-(Drop-It-To-The-Floor)::Pitbull
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.128130, lift: 49.671177]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.259681, lift: 53.857859]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.167894, lift: 47.375793]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.279412, lift: 49.319149]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Roll-Up::Wiz-Khalifa
+[confidence: 0.134021, lift: 45.196547]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.320423, lift: 57.787508]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Roll-Up::Wiz-Khalifa
+Down-On-Me::Jeremih
+[confidence: 0.194030, lift: 63.372899]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.202062, lift: 43.203741]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.179487, lift: 36.495726]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.184211, lift: 47.166992]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.181443, lift: 50.511866]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.251429, lift: 51.123810]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Right-Thru-Me::Nicki-Minaj
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.165414, lift: 53.604323]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.205534, lift: 34.239091]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.159021, lift: 42.014063]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.169657, lift: 50.995579]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.138736, lift: 23.111567]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.154434, lift: 36.605330]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.164763, lift: 34.343660]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Grenade::Bruno-Mars
+[confidence: 0.123711, lift: 44.237469]
+
+Grenade::Bruno-Mars
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.137031, lift: 24.713242]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.179104, lift: 41.045601]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.201465, lift: 45.916355]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.179445, lift: 38.368006]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.206767, lift: 57.561689]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Right-Above-It::Lil-Wayne
+[confidence: 0.142202, lift: 40.400905]
+
+Right-Above-It::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.283537, lift: 51.811002]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Right-Above-It::Lil-Wayne
+What's-My-Name::Rihanna
+[confidence: 0.174812, lift: 51.794307]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.201465, lift: 42.420186]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.226804, lift: 36.183981]
+
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.162003, lift: 41.480754]
+
+Down-On-Me::Jeremih
+           -------->
+Yeah-3X::Chris-Brown
+What's-My-Name::Rihanna
+[confidence: 0.123711, lift: 27.151039]
+
+Yeah-3X::Chris-Brown
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.213198, lift: 46.544483]
+
+What's-My-Name::Rihanna
+           -------->
+Yeah-3X::Chris-Brown
+Down-On-Me::Jeremih
+[confidence: 0.128440, lift: 36.742803]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.144330, lift: 47.514318]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.240196, lift: 43.318841]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.208955, lift: 43.337313]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.128130, lift: 45.040813]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.213235, lift: 37.163866]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.163534, lift: 33.916917]
+
+Tonight::Enrique-Iglesias
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.228710, lift: 38.100040]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Tonight::Enrique-Iglesias
+[confidence: 0.143731, lift: 41.985614]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Tonight::Enrique-Iglesias
+[confidence: 0.153344, lift: 55.310589]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Roll-Up::Wiz-Khalifa
+[confidence: 0.207289, lift: 69.905365]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.320423, lift: 68.510963]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Roll-Up::Wiz-Khalifa
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.194030, lift: 61.437849]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+Down-On-Me::Jeremih
+[confidence: 0.191344, lift: 67.262268]
+
+Down-On-Me::Jeremih
+           -------->
+Did-It-On'-Em::Nicki-Minaj
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.123711, lift: 42.061856]
+
+Did-It-On'-Em::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.363636, lift: 64.185687]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Roll-Up::Wiz-Khalifa
+[confidence: 0.120879, lift: 40.764764]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.309859, lift: 53.553991]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Roll-Up::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.187633, lift: 61.770061]
+
+Colder-Weather::Zac-Brown-Band
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+Don't-You-Wanna-Stay::Jason-Aldean
+[confidence: 0.247788, lift: 77.865379]
+
+Don't-You-Wanna-Stay::Jason-Aldean
+           -------->
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.239316, lift: 71.416098]
+
+Are-You-Gonna-Kiss-Me-Or-Not?::Thompson-Square
+           -------->
+Don't-You-Wanna-Stay::Jason-Aldean
+Colder-Weather::Zac-Brown-Band
+[confidence: 0.237288, lift: 71.323999]
+
+Tonight::Enrique-Iglesias
+           -------->
+Grenade::Bruno-Mars
+Firework::Katy-Perry
+[confidence: 0.214112, lift: 45.313074]
+
+Firework::Katy-Perry
+           -------->
+Grenade::Bruno-Mars
+Tonight::Enrique-Iglesias
+[confidence: 0.153846, lift: 44.940412]
+
+Grenade::Bruno-Mars
+           -------->
+Firework::Katy-Perry
+Tonight::Enrique-Iglesias
+[confidence: 0.143556, lift: 55.136246]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.178571, lift: 41.380686]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.296128, lift: 44.504968]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.238095, lift: 44.287850]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.212912, lift: 37.107535]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.228277, lift: 42.845814]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.291353, lift: 34.828064]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.318907, lift: 57.514113]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.206186, lift: 44.085450]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.298507, lift: 52.689743]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Pretty-Girl-Rock::Keri-Hilson
+[confidence: 0.122253, lift: 40.246381]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.218137, lift: 37.701389]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.189765, lift: 43.013504]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.132548, lift: 27.768108]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.228426, lift: 52.348767]
+
+Grenade::Bruno-Mars
+           -------->
+Yeah-3X::Chris-Brown
+Down-On-Me::Jeremih
+[confidence: 0.146819, lift: 42.000338]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.189985, lift: 41.696239]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.236264, lift: 42.609651]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+[confidence: 0.275053, lift: 43.881581]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.135989, lift: 44.768446]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.225513, lift: 42.326967]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.186090, lift: 34.614451]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+I-Need-A-Doctor::Dr.-Dre
+Down-On-Me::Jeremih
+[confidence: 0.116758, lift: 46.568576]
+
+Down-On-Me::Jeremih
+           -------->
+I-Need-A-Doctor::Dr.-Dre
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.125184, lift: 48.529311]
+
+I-Need-A-Doctor::Dr.-Dre
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.494186, lift: 59.074459]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Firework::Katy-Perry
+[confidence: 0.175841, lift: 37.213693]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Firework::Katy-Perry
+[confidence: 0.187602, lift: 54.800910]
+
+Firework::Katy-Perry
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.201049, lift: 33.492010]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Yeah-3X::Chris-Brown
+[confidence: 0.131075, lift: 41.823043]
+
+Yeah-3X::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.225888, lift: 39.369108]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Yeah-3X::Chris-Brown
+Down-On-Me::Jeremih
+[confidence: 0.167293, lift: 47.857402]
+
+What's-My-Name::Rihanna
+           -------->
+Just-A-Dream::Nelly
+Grenade::Bruno-Mars
+[confidence: 0.146789, lift: 42.878925]
+
+Grenade::Bruno-Mars
+           -------->
+Just-A-Dream::Nelly
+What's-My-Name::Rihanna
+[confidence: 0.156607, lift: 40.099088]
+
+Just-A-Dream::Nelly
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.206009, lift: 34.318217]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.197802, lift: 42.292965]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.263736, lift: 49.501268]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.270677, lift: 40.679961]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Aston-Martin-Music::Rick-Ross
+Down-On-Me::Jeremih
+[confidence: 0.123626, lift: 34.648797]
+
+Down-On-Me::Jeremih
+           -------->
+Aston-Martin-Music::Rick-Ross
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.132548, lift: 36.411162]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.212766, lift: 25.433810]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.192661, lift: 43.909668]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.205546, lift: 37.559773]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.236842, lift: 39.454661]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Like-A-G6::Far-East-Movement
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.166008, lift: 49.898608]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Like-A-G6::Far-East-Movement
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.187500, lift: 55.953237]
+
+Like-A-G6::Far-East-Movement
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.230769, lift: 66.474359]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.163004, lift: 48.643107]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.167293, lift: 36.715996]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.189765, lift: 40.574594]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.177320, lift: 42.029809]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.157509, lift: 33.852227]
+
+What's-My-Name::Rihanna
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.131498, lift: 33.670102]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.215659, lift: 38.893693]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.231222, lift: 39.962936]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.334755, lift: 40.016222]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Just-A-Dream::Nelly
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.138042, lift: 36.471154]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Just-A-Dream::Nelly
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.191964, lift: 52.386043]
+
+Just-A-Dream::Nelly
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.184549, lift: 53.160467]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.157967, lift: 37.442700]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.210623, lift: 43.902664]
+
+What's-My-Name::Rihanna
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.175841, lift: 26.427115]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.170330, lift: 35.864339]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.255670, lift: 30.562524]
+
+Down-On-Me::Jeremih
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.182622, lift: 43.040568]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.171134, lift: 39.219001]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.122239, lift: 38.123733]
+
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.135400, lift: 28.509535]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.151099, lift: 42.064312]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.201465, lift: 47.753009]
+
+Grenade::Bruno-Mars
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.179445, lift: 26.968816]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.181319, lift: 37.605495]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.194404, lift: 44.064801]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.323529, lift: 38.674352]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.208247, lift: 45.463700]
+
+Down-On-Me::Jeremih
+           -------->
+What's-My-Name::Rihanna
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.148748, lift: 31.969293]
+
+What's-My-Name::Rihanna
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.154434, lift: 32.517425]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.225275, lift: 39.763386]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.373576, lift: 44.656903]
+
+Down-On-Me::Jeremih
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.241532, lift: 44.927056]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.182622, lift: 33.370660]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.189602, lift: 33.044998]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.233083, lift: 50.885635]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Grenade::Bruno-Mars
+Firework::Katy-Perry
+[confidence: 0.354478, lift: 75.019037]
+
+Firework::Katy-Perry
+           -------->
+Grenade::Bruno-Mars
+We-R-Who-We-R::Ke$ha
+[confidence: 0.166084, lift: 49.921455]
+
+Grenade::Bruno-Mars
+           -------->
+Firework::Katy-Perry
+We-R-Who-We-R::Ke$ha
+[confidence: 0.154976, lift: 50.617205]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Roll-Up::Wiz-Khalifa
+Down-On-Me::Jeremih
+[confidence: 0.133242, lift: 43.518647]
+
+Down-On-Me::Jeremih
+           -------->
+Roll-Up::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.142857, lift: 47.029478]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.341549, lift: 40.828429]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.203297, lift: 46.589764]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.163476, lift: 45.509879]
+
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.181077, lift: 28.888694]
+
+Yeah-3X::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.233503, lift: 42.668217]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Yeah-3X::Chris-Brown
+[confidence: 0.140673, lift: 44.885439]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Yeah-3X::Chris-Brown
+What's-My-Name::Rihanna
+[confidence: 0.172932, lift: 37.953614]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.245421, lift: 43.319461]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.305239, lift: 48.697389]
+
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.197349, lift: 45.732057]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.140110, lift: 28.489011]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.210309, lift: 39.473434]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.191729, lift: 45.187116]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.188187, lift: 40.237057]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.312073, lift: 53.936598]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.292111, lift: 54.335242]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.118132, lift: 24.748030]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.218274, lift: 51.737201]
+
+Grenade::Bruno-Mars
+           -------->
+Yeah-3X::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.140294, lift: 43.106519]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Grenade::Bruno-Mars
+We-R-Who-We-R::Ke$ha
+[confidence: 0.166008, lift: 49.898608]
+
+We-R-Who-We-R::Ke$ha
+           -------->
+Grenade::Bruno-Mars
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.313433, lift: 82.810153]
+
+Grenade::Bruno-Mars
+           -------->
+We-R-Who-We-R::Ke$ha
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.137031, lift: 53.623072]
+
+What's-My-Name::Rihanna
+           -------->
+Yeah-3X::Chris-Brown
+Firework::Katy-Perry
+[confidence: 0.129969, lift: 38.785119]
+
+Yeah-3X::Chris-Brown
+           -------->
+What's-My-Name::Rihanna
+Firework::Katy-Perry
+[confidence: 0.215736, lift: 63.019232]
+
+Firework::Katy-Perry
+           -------->
+What's-My-Name::Rihanna
+Yeah-3X::Chris-Brown
+[confidence: 0.148601, lift: 32.613683]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.162080, lift: 44.820387]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.236607, lift: 39.415519]
+
+Grenade::Bruno-Mars
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+What's-My-Name::Rihanna
+[confidence: 0.172920, lift: 48.139089]
+
+Only-Girl-(In-The-World)::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Firework::Katy-Perry
+[confidence: 0.193676, lift: 40.988142]
+
+Firework::Katy-Perry
+           -------->
+Grenade::Bruno-Mars
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.171329, lift: 45.265690]
+
+Grenade::Bruno-Mars
+           -------->
+Firework::Katy-Perry
+Only-Girl-(In-The-World)::Rihanna
+[confidence: 0.159869, lift: 51.807708]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.176730, lift: 40.279014]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.195759, lift: 34.117921]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.225564, lift: 51.692768]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.201465, lift: 36.813994]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.168196, lift: 35.962672]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.206767, lift: 49.009667]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.163462, lift: 41.343809]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.217949, lift: 49.401709]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.291667, lift: 43.834541]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.338828, lift: 40.503109]
+
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.272459, lift: 40.947899]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.254121, lift: 40.542054]
+
+Yeah-3X::Chris-Brown
+           -------->
+Rocketeer::Far-East-Movement
+Grenade::Bruno-Mars
+[confidence: 0.218274, lift: 65.608769]
+
+Grenade::Bruno-Mars
+           -------->
+Rocketeer::Far-East-Movement
+Yeah-3X::Chris-Brown
+[confidence: 0.140294, lift: 45.111474]
+
+Rocketeer::Far-East-Movement
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.301754, lift: 63.216020]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.179487, lift: 29.900113]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.149847, lift: 41.715822]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.159869, lift: 37.893638]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.189066, lift: 43.328509]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.122239, lift: 48.754390]
+
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.135400, lift: 23.899483]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.170839, lift: 43.209885]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.212454, lift: 44.063004]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+[confidence: 0.284314, lift: 45.358974]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.159341, lift: 36.315662]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.189233, lift: 35.517631]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.218045, lift: 51.682922]
+
+Yeah-3X::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.230964, lift: 52.639594]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+Yeah-3X::Chris-Brown
+[confidence: 0.148450, lift: 47.367047]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.171053, lift: 35.834662]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.127747, lift: 27.455731]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.191753, lift: 39.969331]
+
+What's-My-Name::Rihanna
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.142202, lift: 33.514387]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Roll-Up::Wiz-Khalifa
+Down-On-Me::Jeremih
+[confidence: 0.205011, lift: 66.959625]
+
+Down-On-Me::Jeremih
+           -------->
+Roll-Up::Wiz-Khalifa
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.132548, lift: 41.970118]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.316901, lift: 55.936470]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.259794, lift: 45.278351]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.185567, lift: 37.731959]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.236842, lift: 49.869089]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.153166, lift: 25.515434]
+
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.159021, lift: 36.443138]
+
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.169657, lift: 37.038894]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.183505, lift: 41.823043]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.145188, lift: 29.521479]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.167293, lift: 52.175363]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.184066, lift: 40.397116]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.245421, lift: 42.416972]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.285714, lift: 42.939959]
+
+Down-On-Me::Jeremih
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.166421, lift: 39.446581]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.206960, lift: 45.182572]
+
+What's-My-Name::Rihanna
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+[confidence: 0.172783, lift: 27.565514]
+
+Just-The-Way-You-Are::Bruno-Mars
+           -------->
+Dynamite::Taio-Cruz
+DJ-Got-Us-Fallin'-In-Love::Usher
+[confidence: 0.134831, lift: 42.051195]
+
+DJ-Got-Us-Fallin'-In-Love::Usher
+           -------->
+Dynamite::Taio-Cruz
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.187500, lift: 59.826923]
+
+Dynamite::Taio-Cruz
+           -------->
+DJ-Got-Us-Fallin'-In-Love::Usher
+Just-The-Way-You-Are::Bruno-Mars
+[confidence: 0.252252, lift: 72.662663]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.234624, lift: 51.493172]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.188645, lift: 40.334957]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.219616, lift: 50.892068]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+No-Hands::Waka-Flocka-Flame
+[confidence: 0.144330, lift: 43.070533]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.184211, lift: 33.221968]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.208955, lift: 36.417910]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Roll-Up::Wiz-Khalifa
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.116758, lift: 36.970472]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Roll-Up::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.193622, lift: 63.741548]
+
+Roll-Up::Wiz-Khalifa
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.299296, lift: 55.671698]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Right-Thru-Me::Nicki-Minaj
+[confidence: 0.145260, lift: 40.438807]
+
+Right-Thru-Me::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.271429, lift: 49.598490]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Right-Thru-Me::Nicki-Minaj
+What's-My-Name::Rihanna
+[confidence: 0.178571, lift: 49.712368]
+
+Yeah-3X::Chris-Brown
+           -------->
+Grenade::Bruno-Mars
+Firework::Katy-Perry
+[confidence: 0.263959, lift: 55.862426]
+
+Grenade::Bruno-Mars
+           -------->
+Yeah-3X::Chris-Brown
+Firework::Katy-Perry
+[confidence: 0.169657, lift: 50.628704]
+
+Firework::Katy-Perry
+           -------->
+Grenade::Bruno-Mars
+Yeah-3X::Chris-Brown
+[confidence: 0.181818, lift: 38.089991]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.218679, lift: 38.112594]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.141384, lift: 46.544638]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.180451, lift: 31.851544]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+The-Show-Goes-On::Lupe-Fiasco
+[confidence: 0.120879, lift: 42.135008]
+
+The-Show-Goes-On::Lupe-Fiasco
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.362140, lift: 43.289809]
+
+Down-On-Me::Jeremih
+           -------->
+The-Show-Goes-On::Lupe-Fiasco
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.129602, lift: 47.157068]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Right-Above-It::Lil-Wayne
+[confidence: 0.185567, lift: 52.721367]
+
+Right-Above-It::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.274390, lift: 55.792683]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Right-Above-It::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.169173, lift: 54.822603]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Aston-Martin-Music::Rick-Ross
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.116758, lift: 38.437555]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Aston-Martin-Music::Rick-Ross
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.155678, lift: 42.764961]
+
+Aston-Martin-Music::Rick-Ross
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.200946, lift: 30.200089]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.168956, lift: 36.885772]
+
+Down-On-Me::Jeremih
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.181149, lift: 37.759046]
+
+What's-My-Name::Rihanna
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.188073, lift: 22.482088]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Back-Seat::New-Boyz
+Down-On-Me::Jeremih
+[confidence: 0.138736, lift: 45.313230]
+
+Down-On-Me::Jeremih
+           -------->
+Back-Seat::New-Boyz
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.148748, lift: 46.045326]
+
+Back-Seat::New-Boyz
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.465438, lift: 55.637923]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.319231, lift: 58.333446]
+
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.474286, lift: 82.661224]
+
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.436842, lift: 93.403147]
+
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.427835, lift: 93.403147]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.348739, lift: 82.661224]
+
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.365639, lift: 58.333446]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.152015, lift: 50.851353]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.122239, lift: 46.095060]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.126911, lift: 37.335329]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.156015, lift: 57.269945]
+
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.486034, lift: 87.655089]
+
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.448454, lift: 71.545599]
+
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.460317, lift: 81.250929]
+
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.370213, lift: 81.250929]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.334615, lift: 71.545599]
+
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.378261, lift: 87.655089]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.198178, lift: 63.724109]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.159341, lift: 47.210361]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.185501, lift: 57.422270]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.128130, lift: 51.600154]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.427536, lift: 74.513458]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.453846, lift: 85.183432]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.340058, lift: 72.709231]
+
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.608247, lift: 72.709231]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.533937, lift: 85.183432]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.495798, lift: 74.513458]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.216117, lift: 57.835756]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.162088, lift: 47.683735]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.173785, lift: 50.059728]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.221805, lift: 49.732168]
+
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.567010, lift: 67.779791]
+
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.493274, lift: 88.960811]
+
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.458333, lift: 80.900709]
+
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.468085, lift: 80.900709]
+
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.478261, lift: 88.960811]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.317003, lift: 67.779791]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.234542, lift: 59.321858]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.250569, lift: 66.201413]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.151099, lift: 44.768446]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.162003, lift: 49.050235]
+
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.597765, lift: 71.456217]
+
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.479821, lift: 76.549845]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.387681, lift: 68.429849]
+
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.455319, lift: 68.429849]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.411538, lift: 76.549845]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.308357, lift: 71.456217]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.243736, lift: 54.649511]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.195971, lift: 49.566247]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.146978, lift: 45.497376]
+
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.157585, lift: 50.281636]
+
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.345833, lift: 60.273810]
+
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.360870, lift: 67.732441]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+All-Of-The-Lights::Kanye-West
+[confidence: 0.239193, lift: 71.379346]
+
+No-Hands::Waka-Flocka-Flame
+All-Of-The-Lights::Kanye-West
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.597122, lift: 71.379346]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.375566, lift: 67.732441]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.348739, lift: 60.273810]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.176972, lift: 47.360066]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.114011, lift: 48.256896]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.122239, lift: 51.739353]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.156015, lift: 41.219769]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.247839, lift: 45.287867]
+
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.432161, lift: 75.319454]
+
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.452632, lift: 84.955466]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.389140, lift: 84.955466]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.361345, lift: 75.319454]
+
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.378855, lift: 45.287867]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.118132, lift: 39.517015]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.126657, lift: 47.330865]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.131498, lift: 35.190688]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.161654, lift: 54.515557]
+
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.567073, lift: 67.787306]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.336957, lift: 69.884783]
+
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.508197, lift: 81.076923]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.357692, lift: 81.076923]
+
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.465000, lift: 69.884783]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.268012, lift: 67.787306]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.227941, lift: 51.108108]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.170330, lift: 53.524809]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.127747, lift: 45.680656]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.136966, lift: 47.742478]
+
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.491620, lift: 84.968343]
+
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.453608, lift: 68.172718]
+
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.465608, lift: 86.607350]
+
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.394619, lift: 86.607350]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.318841, lift: 68.172718]
+
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.366667, lift: 84.968343]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.200456, lift: 62.051474]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.161172, lift: 48.798695]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.187633, lift: 59.869444]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.120879, lift: 48.680252]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.315217, lift: 66.371662]
+
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.537037, lift: 64.196819]
+
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.494318, lift: 78.862762]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.334615, lift: 78.862762]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.250720, lift: 64.196819]
+
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.441624, lift: 66.371662]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.159341, lift: 53.302021]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.119505, lift: 45.064436]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.179381, lift: 40.220228]
+
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.128130, lift: 52.106038]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.273775, lift: 62.396681]
+
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.542857, lift: 94.612245]
+
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.524862, lift: 98.512537]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.429864, lift: 98.512537]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.399160, lift: 94.612245]
+
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.521978, lift: 62.396681]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.130495, lift: 45.107601]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.139912, lift: 50.030471]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.154976, lift: 41.473452]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.178571, lift: 56.543075]
+
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.544974, lift: 65.145541]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+[confidence: 0.373188, lift: 67.303718]
+
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.429167, lift: 68.468590]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.396154, lift: 68.468590]
+
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.447826, lift: 67.303718]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.296830, lift: 65.145541]
+
+All-Of-The-Lights::Kanye-West
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.219616, lift: 49.241514]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.188645, lift: 49.840648]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+All-Of-The-Lights::Kanye-West
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.141484, lift: 45.494080]
+
+Down-On-Me::Jeremih
+           -------->
+All-Of-The-Lights::Kanye-West
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.151694, lift: 46.957114]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.318841, lift: 69.607933]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.338462, lift: 70.549671]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.253602, lift: 60.110992]
+
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.502857, lift: 60.110992]
+
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.442211, lift: 70.549671]
+
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.463158, lift: 69.607933]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.161172, lift: 54.353018]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.120879, lift: 44.372265]
+
+Down-On-Me::Jeremih
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.129602, lift: 46.747006]
+
+What's-My-Name::Rihanna
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.134557, lift: 30.169766]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.333333, lift: 76.390424]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.353846, lift: 83.871648]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.265130, lift: 73.809257]
+
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.617450, lift: 73.809257]
+
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.525714, lift: 83.871648]
+
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.508287, lift: 76.390424]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.168498, lift: 53.353466]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.126374, lift: 47.225027]
+
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.135493, lift: 51.093319]
+
+Grenade::Bruno-Mars
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.150082, lift: 33.650721]
+
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.500000, lift: 87.142857]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.253602, lift: 51.565802]
+
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.446701, lift: 83.842249]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.398190, lift: 83.842249]
+
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.431373, lift: 51.565802]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.369748, lift: 87.142857]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+[confidence: 0.120879, lift: 39.794174]
+
+Black-And-Yellow::Wiz-Khalifa
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.181443, lift: 48.556568]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.129602, lift: 52.704958]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Down-On-Me::Jeremih
+Black-And-Yellow::Wiz-Khalifa
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.165414, lift: 55.333495]
+
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.612245, lift: 73.187085]
+
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.403587, lift: 83.704036]
+
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.491803, lift: 86.808511]
+
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.382979, lift: 86.808511]
+
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.450000, lift: 83.704036]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.259366, lift: 73.187085]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.220588, lift: 55.792683]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.205011, lift: 64.423276]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.123626, lift: 44.982649]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.132548, lift: 52.866206]
+
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.376682, lift: 65.650224]
+
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.357447, lift: 67.090016]
+
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.242075, lift: 79.692603]
+
+No-Hands::Waka-Flocka-Flame
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.666667, lift: 79.692603]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.380090, lift: 67.090016]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.352941, lift: 65.650224]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.191344, lift: 51.206114]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.115385, lift: 49.855769]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.123711, lift: 51.833802]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.157895, lift: 39.935815]
+
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+[confidence: 0.474860, lift: 98.486034]
+
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.578231, lift: 92.250131]
+
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.518293, lift: 91.484172]
+
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.361702, lift: 91.484172]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.326923, lift: 92.250131]
+
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.425000, lift: 98.486034]
+
+Look-At-Me-Now::Chris-Brown
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.193622, lift: 69.236509]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.155678, lift: 56.644817]
+
+Pretty-Girl-Rock::Keri-Hilson
+           -------->
+Down-On-Me::Jeremih
+Look-At-Me-Now::Chris-Brown
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.208333, lift: 64.490050]
+
+Down-On-Me::Jeremih
+           -------->
+Pretty-Girl-Rock::Keri-Hilson
+6-Foot-7-Foot::Lil-Wayne
+Look-At-Me-Now::Chris-Brown
+[confidence: 0.125184, lift: 54.659329]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.307971, lift: 56.275937]
+
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.485714, lift: 91.164835]
+
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.427136, lift: 91.327773]
+
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.438144, lift: 91.327773]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.384615, lift: 91.164835]
+
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.374449, lift: 56.275937]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.155678, lift: 58.175758]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.116758, lift: 44.028472]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.129969, lift: 37.438413]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+What's-My-Name::Rihanna
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.159774, lift: 57.629944]
+
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.336957, lift: 76.796464]
+
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.624161, lift: 117.150232]
+
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.531429, lift: 113.627099]
+
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.479381, lift: 113.627099]
+
+No-Hands::Waka-Flocka-Flame
+Moment-4-Life::Nicki-Minaj
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.420814, lift: 117.150232]
+
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+           -------->
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.510989, lift: 76.796464]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.170330, lift: 60.907541]
+
+Moment-4-Life::Nicki-Minaj
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.127747, lift: 48.172328]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.151713, lift: 43.701740]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+Moment-4-Life::Nicki-Minaj
+[confidence: 0.174812, lift: 65.920027]
+
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.442105, lift: 100.761134]
+
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+[confidence: 0.464088, lift: 84.803466]
+
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.337349, lift: 58.795181]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.352941, lift: 58.795181]
+
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.370044, lift: 84.803466]
+
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+           -------->
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.461538, lift: 100.761134]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+[confidence: 0.123711, lift: 40.726559]
+
+What's-My-Name::Rihanna
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.128440, lift: 44.397554]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.137031, lift: 45.839078]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+What's-My-Name::Rihanna
+Down-On-Me::Jeremih
+[confidence: 0.157895, lift: 62.975709]
+
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+[confidence: 0.342308, lift: 78.016061]
+
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+[confidence: 0.597315, lift: 104.103547]
+
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.491713, lift: 105.135274]
+
+No-Hands::Waka-Flocka-Flame
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.458763, lift: 105.135274]
+
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+           -------->
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.373950, lift: 104.103547]
+
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+           -------->
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.489011, lift: 78.016061]
+
+6-Foot-7-Foot::Lil-Wayne
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+[confidence: 0.163004, lift: 56.344933]
+
+Down-On-Me::Jeremih
+           -------->
+No-Hands::Waka-Flocka-Flame
+Grenade::Bruno-Mars
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.131075, lift: 49.427233]
+
+Grenade::Bruno-Mars
+           -------->
+No-Hands::Waka-Flocka-Flame
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.145188, lift: 42.711927]
+
+No-Hands::Waka-Flocka-Flame
+           -------->
+Grenade::Bruno-Mars
+Down-On-Me::Jeremih
+6-Foot-7-Foot::Lil-Wayne
+[confidence: 0.167293, lift: 62.516426]
